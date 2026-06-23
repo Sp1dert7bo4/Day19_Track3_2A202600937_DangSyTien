@@ -1,0 +1,9 @@
+networkx
+matplotlib
+pandas
+langchain
+langchain-groq
+langchain-community
+chromadb
+sentence-transformers
+faiss-cpu
