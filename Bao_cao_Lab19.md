@@ -1,4 +1,6 @@
 # Báo cáo Lab Day 19: Xây dựng hệ thống GraphRAG
+Tên học viên: Đặng Sỹ Tiến
+Mã học viên: 2A202600937  
 
 ## 1. Mã nguồn
 Mã nguồn toàn bộ pipeline đã được phát triển trong tập tin `Lab_Day19_GraphRAG.py`. Các thành phần chính:
